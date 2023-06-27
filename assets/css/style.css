@@ -1,0 +1,33 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar{
+    /* background-color: rgb(20, 115, 145); */
+    background-color: #01DC64;
+    
+}
+#welcome{
+    background-color: #01DC64;
+}
+#regislogin a{
+    color: white;
+}
+/* footer {
+    bottom: 0;
+    background-color: #187943;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 40px;
+    margin-top: 7rem;
+    padding-bottom: 30px;
+    width: 100%;
+    font-weight: 300;
+    position: relative;
+  }
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: white;
+} */
